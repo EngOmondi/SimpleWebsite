@@ -1,0 +1,23 @@
+h2{color: blue; font-family:Lobster;}
+.red-text{color: red; }
+p{font-size: 16px; font-family: monospace;}
+<!--.smaller-image{width:100px; height:100px;}-->
+.Thick-green-border{border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  border-radius: 15px;}
+  .sliver-background{background-color: silver;}
+  #cat-photo-form{background-color: green;}
+  [type='checkbox'] {
+    margin: 10px 0px 15px 0px;
+  }
+  body {
+    background-color:var(--fidel);
+  }
+  @media (min-width: 350px) {
+    :root {
+      
+      --fidel:#9ca740;
+      --mwendwa:black;
+      
+    }}
